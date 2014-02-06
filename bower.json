@@ -1,0 +1,10 @@
+{
+  "name": "scroll-fail",
+  "version": "0.0.1",
+  "ignore": [
+    "*"
+  ],
+  "dependencies": {
+    "ember-table": "47f72d7a296c1ca5fa412ccca6e4bfb396aeb782"
+  }
+}
